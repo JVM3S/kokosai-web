@@ -1,0 +1,11 @@
+# robots.txt written by James Humphrey, 2024 Sep 5.
+# Believing in an open internet, but not the misuse of public information.
+#
+# Oh and I use Arch btw
+
+User-agent: *
+Disallow: /assets/
+Disallow: /uploads/
+Disallow: /wp-content/
+
+Sitemap: https://kokosai.jp/sitemap.xml
