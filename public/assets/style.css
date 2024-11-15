@@ -261,7 +261,7 @@ a.main-oshare-links {
 
 .panel p {
     font-size: 18px;
-    padding: 10px 0px;
+    padding: 5px 0px;
 }
 
 .location-badge {
@@ -273,11 +273,34 @@ a.main-oshare-links {
     border-radius: 3px;
 }
 
+.time-badge {
+    background-color: #444;
+    color: white;
+    padding: 4px 8px;
+    margin: 0px;
+    margin-right: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px;
+}
+
+.thumbnail {
+    width: 100%;
+    padding: 4px 0px;
+}
+
 /*  */
 
 .explanation {
     display: block;
     line-height: 4em;
+    font-family: serif;
+    font-size: 18px;
+}
+
+.greetings {
+    display: block;
+    line-height: 3em;
     font-family: serif;
     font-size: 18px;
 }

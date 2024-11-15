@@ -7,5 +7,6 @@ User-agent: *
 Disallow: /assets/
 Disallow: /uploads/
 Disallow: /wp-content/
+Disallow: /web/
 
 Sitemap: https://kokosai.jp/sitemap.xml
